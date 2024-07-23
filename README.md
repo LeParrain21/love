@@ -1,5 +1,5 @@
 <h1 align="center">
-   Fake DDOS Tool
+   DDOS TOOl
 </h1>
 <p align="center">
    <kbd>
@@ -21,7 +21,7 @@
 
 ### About the Tool
 
-The Fake DDOS Tool is a sophisticated software application designed for ethical hackers and cybersecurity professionals. It provides a controlled environment for simulating Distributed Denial of Service (DDOS) attacks, offering valuable insights and practical experience in cybersecurity testing and education.
+DDOS Tool is a sophisticated software application designed for ethical hackers and cybersecurity professionals. It provides a controlled environment for simulating Distributed Denial of Service (DDOS) attacks, offering valuable insights and practical experience in cybersecurity testing and education.
 
 ## Project Status: Ongoing Development 🚀
 
